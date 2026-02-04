@@ -1,0 +1,25 @@
+{
+  "scan_time": "2025-12-26T16:17:07.146497",
+  "input": "dash-oe.com",
+  "domain": "dash-oe.com",
+  "type": "domain",
+  "risk_score": 20,
+  "results": {
+    "dns": true,
+    "ssl": true,
+    "age": {
+      "found": true,
+      "registered": "2025-02-07",
+      "age_years": 0.9
+    },
+    "heuristic": 0,
+    "warnings": [],
+    "virustotal": {
+      "malicious": 0,
+      "suspicious": 0,
+      "harmless": 62,
+      "total": 95
+    }
+  },
+  "warnings": []
+}

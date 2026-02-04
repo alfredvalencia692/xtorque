@@ -1,0 +1,64 @@
+{
+  "target": "142.251.220.163",
+  "target_type": "ip",
+  "url": "https://142.251.220.163",
+  "is_ip": true,
+  "scanned_at": "2025-12-12T08:12:32.037922Z",
+  "scan_id": "af6e4cf54fee0a94ab22a537c8f99cde1fe4771c79b7e0948c71201d79cb2a29",
+  "_meta": {
+    "online": true
+  },
+  "reverse_dns": "mnl07s02-in-f3.1e100.net",
+  "ip": "142.251.220.163",
+  "ssl_info": {
+    "valid": false,
+    "error": "No certificate found"
+  },
+  "whois_creation": "Not Available",
+  "whois_expiration": "Not Available",
+  "network_name": "GOOGLE",
+  "country": "Unknown",
+  "whois_method": "rdap",
+  "http_error": "HTTPSConnectionPool(host='142.251.220.163', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1007)')))",
+  "threat_intelligence": {
+    "checked_sources": 2,
+    "threats_detected": 0,
+    "sources": {
+      "virustotal": {
+        "source": "virustotal-api",
+        "harmless": 61,
+        "malicious": 0,
+        "suspicious": 0,
+        "undetected": 34
+      },
+      "abuseipdb": {
+        "source": "abuseipdb",
+        "abuse_confidence_score": 0,
+        "total_reports": 0,
+        "is_whitelisted": null,
+        "threat_detected": false
+      }
+    },
+    "overall_verdict": "clean",
+    "severity": "low"
+  },
+  "virustotal": {
+    "source": "virustotal-api",
+    "harmless": 61,
+    "malicious": 0,
+    "suspicious": 0,
+    "undetected": 34
+  },
+  "abuseipdb": {
+    "source": "abuseipdb",
+    "abuse_confidence_score": 0,
+    "total_reports": 0,
+    "is_whitelisted": null,
+    "threat_detected": false
+  },
+  "location": "142.251.220.163",
+  "threat_level": "Dangerous",
+  "confidence_score": "80%",
+  "recommendation": "\u2705 Safe \u2014 No significant threats detected.",
+  "threat_color": "green"
+}
